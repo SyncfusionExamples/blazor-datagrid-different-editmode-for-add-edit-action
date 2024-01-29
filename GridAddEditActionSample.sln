@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridAddEditActionSample", "GridAddEditActionSample\GridAddEditActionSample.csproj", "{A61C4D2D-13A3-49BE-9E15-E8A7F07B19EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridAddEditActionSample.Client", "GridAddEditActionSample.Client\GridAddEditActionSample.Client.csproj", "{5B159B3D-6394-49B0-872D-4ECA2FB0CBAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A61C4D2D-13A3-49BE-9E15-E8A7F07B19EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A61C4D2D-13A3-49BE-9E15-E8A7F07B19EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A61C4D2D-13A3-49BE-9E15-E8A7F07B19EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A61C4D2D-13A3-49BE-9E15-E8A7F07B19EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B159B3D-6394-49B0-872D-4ECA2FB0CBAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B159B3D-6394-49B0-872D-4ECA2FB0CBAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B159B3D-6394-49B0-872D-4ECA2FB0CBAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B159B3D-6394-49B0-872D-4ECA2FB0CBAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B633B1D-A662-45FF-9ADD-D20B98AD59E3}
+	EndGlobalSection
+EndGlobal
